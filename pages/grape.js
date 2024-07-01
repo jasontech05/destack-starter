@@ -1,4 +1,4 @@
-import '../../../lib/node_modules/grapesjs/dist/css/grapes.min.css'
+import 'https://cdnjs.cloudflare.com/ajax/libs/grapesjs/0.17.4/css/grapes.min.css'
 
 export { getStaticProps } from 'destack/build/server'
 import { ContentProvider } from 'destack/build/browser/grapes'
